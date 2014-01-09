@@ -60,6 +60,10 @@
         <h3>0.9.16 changes:</h3>
             <ul>
                 <li>[feature] Added support for running all tests in a directory</li>
+        <h3>0.9.15.3 changes:</h3>
+            <ul>
+                <li>[bugfix] Fix the creation of projects in IntelliJ Community again.</li>
+             </ul>
         <h3>0.9.15.1 changes:</h3>
             <ul>
                 <li>[bugfix] Fix auto-complete for third-party packages</li>
